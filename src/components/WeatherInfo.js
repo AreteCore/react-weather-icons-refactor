@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function WeatherData(props) {
+export default function WeatherInfo(props) {
     return (
         <>
             <p>
